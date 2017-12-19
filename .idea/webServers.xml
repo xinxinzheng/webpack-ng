@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c85ec840-21ec-4514-9144-555c4d195894" name="tempt40" url="http://10.160.133.10">
+        <fileTransfer host="10.160.133.10" port="22" rootFolder="/usr/lib/ambari-server/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
